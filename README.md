@@ -14,24 +14,22 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Albert Cortel,Software Engineer & Software Developer from Philippines
+  Hi, I'm Albert Cortel, a Software Engineer & Software Developer from the Philippines.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🎓 I studied at North Eastern Mindanao State University, Surigao del Sur.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  💻 I have experience in programming with C#, VB.NET, and JavaScript.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  🛠️ I use tools like HTTP Debugger, DNSPY, and Visual Studio for my development work.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🔍 I specialize in security analysis and have contributed to various projects including eiFAM and eiDOC.
   <br>
-  💻 I love writing code and learn anythings about it
+  📚 I’m currently expanding my knowledge in building E-Commerce websites.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Feel free to ask me anything on my GitHub issues page.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Artimatrix007/Artimatrix007/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: albertcortel007@gmail.com">albert.cortel@example.com</a>
 </p>
 
 <hr>
