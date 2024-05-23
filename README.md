@@ -1,88 +1,101 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Artimatrix007</a></b>
-        </samp>
-</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Artimatrix007.Artimatrix007">
 
-<p align="center"> 
-  <samp>
-<!--     <a href="#">「 Google Me 」</a> -->
-    <br>
-    「 Software Engineer 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-<!--  <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Art" />
- </a> -->
- <a href="https://www.linkedin.com/in/albert-cortel-404460261/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Art"/>
- </a>
- <a href="https://Artsus.itch.io/" target="_blank">
-   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
- </a>
- <a href="https://www.sololearn.com/en/profile/26797502" target="_blank">
-   <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>
- </a>
-<!--  <a href="https://www.facebook.com/ArtSonelAsaleb" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Art"/>
-  </a>  -->
-</p>
-<img align="right" width="300" src="/assets/Artdev.png" alt="Coding gif" />
-<br />
-
-<!-- About Section -->
-# About me
-<p>
- 🔭 &emsp; Fulltime Software Engineer / Web Developer <br/><br/>
- 📚 &emsp; Tech Stack: ASP.NET MVC / Windows Form <br/><br/>
- 📧 &emsp; Reach me anytime: albertcortel007@gmail.com<br/><br/>
-</p>
-<br/>
-
-## Experiences
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-<br/>
-
-<!-- <p align="left">
-  <a href="https://github.com/Artimatrix007?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p> -->
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Artimatrix007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artimatrix007&theme=radical&border=7F3FBF&background=0D1117" alt="Artimatrix GitHub streak"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Albert+Cortel....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</p>
+</h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <p align="center">
-  <a href="https://github.com/Artimatrix007">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artimatrix007&theme=radical" alt="Artimatrix GitHub Contribution"/>
-  </a>
+  Hi, I'm Albert Cortel,Software Engineer & Software Developer from Philippines
+  <br>
+  <br>
+  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Artimatrix007/Artimatrix007/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
-<a> 
-    <a href="https://github.com/Artimatrix007"><img alt="Artimatrix Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Artimatrix007&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Artimatrix007"><img alt="Artimatrix Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Artimatrix007&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+</p>
+<hr>
 
-![Artimatrix Graph](https://github-readme-activity-graph.vercel.app/graph?username=Artimatrix007&custom_title=Artimatrix%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Artimatrix007&theme=react&border=61dafb&hide_border=true" alt="Artimatrix007" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Artimatrix007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+<div width="100%" align="center">
+          <a href="https://github.com/Artimatrix007">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artimatrix007&theme=react&bg_color=20232a&hide_border=true" alt="Artimatrix GitHub Contribution"/>
+  </a>
+</div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artimatrix007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+<hr>
+
+
+
+<!--
+**Artimatrix007/Artimatrix007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+![Metrics](https://metrics.lecoq.io/Artimatrix007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->
