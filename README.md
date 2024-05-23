@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/albert-cortel-404460261/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.linkedin.com/in/albert-cortel-404460261/" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
-  <code><a href="https://www.imirai.ovh/" title="Portfolio Profile"><img width="22" src="images/web.svg"> Portfolio</a></code>
+  <code><a href="https://www.imirai.ovh/" title="Portfolio Profile"><img width="22" src="images/website.png"> Portfolio</a></code>
 </h5>
 <br>
 <p align="center">
