@@ -28,7 +28,7 @@
   <br>
   💬 Feel free to ask me anything on my GitHub issues page.
   <br>
-  📫 How to reach me: <a href="mailto: albertcortel007@gmail.com">albert.cortel@example.com</a>
+  📫 How to reach me: <a href="mailto: albertcortel007@gmail.com">albertcortel007@gmail.com</a>
 </p>
 
 <hr>
