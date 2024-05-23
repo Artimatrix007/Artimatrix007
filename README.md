@@ -53,24 +53,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Artimatrix007&theme=react&border=61dafb&hide_border=true" alt="Artimatrix007" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Artimatrix007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-<div width="100%" align="center">
-          <a href="https://github.com/Artimatrix007">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artimatrix007&theme=react&bg_color=20232a&hide_border=true" alt="Artimatrix GitHub Contribution"/>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Artimatrix007&theme=react&border=61dafb&hide_border=true" alt="Artimatrix007" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Artimatrix007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artimatrix007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+
+<div style="clear: both; padding: 20px 0;"></div>
+
+<div align="center">
+  <a href="https://github.com/Artimatrix007">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artimatrix007&theme=react&bg_color=20232a&hide_border=true" alt="Artimatrix GitHub Contribution" />
+  </a>
+</div>
+
+<div align="center" style="padding: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artimatrix007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</div>
 
 <hr>
 
